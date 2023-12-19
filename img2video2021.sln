@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "img2video2021", "img2video2021\img2video2021.vcxproj", "{DBFA921D-A172-4D39-91B8-3A48CD4D2255}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBFA921D-A172-4D39-91B8-3A48CD4D2255}.Debug|x64.ActiveCfg = Debug|x64
+		{DBFA921D-A172-4D39-91B8-3A48CD4D2255}.Debug|x64.Build.0 = Debug|x64
+		{DBFA921D-A172-4D39-91B8-3A48CD4D2255}.Debug|x86.ActiveCfg = Debug|Win32
+		{DBFA921D-A172-4D39-91B8-3A48CD4D2255}.Debug|x86.Build.0 = Debug|Win32
+		{DBFA921D-A172-4D39-91B8-3A48CD4D2255}.Release|x64.ActiveCfg = Release|x64
+		{DBFA921D-A172-4D39-91B8-3A48CD4D2255}.Release|x64.Build.0 = Release|x64
+		{DBFA921D-A172-4D39-91B8-3A48CD4D2255}.Release|x86.ActiveCfg = Release|Win32
+		{DBFA921D-A172-4D39-91B8-3A48CD4D2255}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
